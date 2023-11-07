@@ -1,0 +1,3 @@
+Name= Rishab
+Roll= 16
+Avg of 5 marks= 92.60
