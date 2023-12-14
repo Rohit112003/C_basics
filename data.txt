@@ -1,3 +1,0 @@
-Name= Rohit
-Roll= 21
-Avg of 5 marks= 92.60
